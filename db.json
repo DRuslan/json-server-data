@@ -1,12 +1,10 @@
 {
-  "users": [
+  "form": [
     {
-      "id": 1,
-      "name": "John"
+      "name": ""
     },
     {
-      "id": 2,
-      "name": "Jane"
+      "phone": ""
     }
   ]
 }
